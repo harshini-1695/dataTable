@@ -26,13 +26,7 @@
                 "name": "<a href=\"https:\/\/portal.sumanas.xyz\/admin\/employee\/b54b60d0-e19f-11ec-84ca-f719e5cd1393\" target=\"_blank\" data-impersonate-url=\"https:\/\/portal.sumanas.xyz\/impersonate\/take\/b5498750-e19f-11ec-b723-6f8986fd85e3\" title=\"Harshini  O.K.\" class=\"rightclick\">Harshini<\/a>",
                 "employeetype": "T",
                 "gender": "F",
-                "dob": "1995-06-01",
-                "designation_id": "79bfcfb0-88e4-11e8-8a9c-555a1a00f4cd",
-                "photo": null,
-                "officetiming_id": "55bfec50-9b61-11ea-a4f0-a10d7b428719",
-                "casual_count_per_year": {
-                    "2022": "0"
-                },
+                "dob": "1995-06-01",                
                 "scrum_master": 0
             },
             "action": "<button class=\"btn btn-default btn-view\" title=\"View\" data-url=\"https:\/\/portal.sumanas.xyz\/trainee\/leave\/b225e480-29ac-11ed-ad9b-216ff152978e\" data-toggle=\"modal\" data-target=\"#DatatableViewModal\"><i class=\"fa fa-eye\"><\/i><\/button>&nbsp;",
@@ -65,12 +59,6 @@
                 "employeetype": "T",
                 "gender": "F",
                 "dob": "1995-06-01",
-                "designation_id": "79bfcfb0-88e4-11e8-8a9c-555a1a00f4cd",
-                "photo": null,
-                "officetiming_id": "55bfec50-9b61-11ea-a4f0-a10d7b428719",
-                "casual_count_per_year": {
-                    "2022": "0"
-                },
                 "scrum_master": 0
             },
             "action": "<button class=\"btn btn-default btn-view\" title=\"View\" data-url=\"https:\/\/portal.sumanas.xyz\/trainee\/leave\/c3858c40-0c9c-11ed-be4c-d7a77f71491c\" data-toggle=\"modal\" data-target=\"#DatatableViewModal\"><i class=\"fa fa-eye\"><\/i><\/button>&nbsp;",
@@ -102,13 +90,7 @@
                 "name": "<a href=\"https:\/\/portal.sumanas.xyz\/admin\/employee\/b54b60d0-e19f-11ec-84ca-f719e5cd1393\" target=\"_blank\" data-impersonate-url=\"https:\/\/portal.sumanas.xyz\/impersonate\/take\/b5498750-e19f-11ec-b723-6f8986fd85e3\" title=\"Harshini  O.K.\" class=\"rightclick\">Harshini<\/a>",
                 "employeetype": "T",
                 "gender": "F",
-                "dob": "1995-06-01",
-                "designation_id": "79bfcfb0-88e4-11e8-8a9c-555a1a00f4cd",
-                "photo": null,
-                "officetiming_id": "55bfec50-9b61-11ea-a4f0-a10d7b428719",
-                "casual_count_per_year": {
-                    "2022": "0"
-                },
+                "dob": "1995-06-01",                
                 "scrum_master": 0
             },
             "action": "<button class=\"btn btn-default btn-view\" title=\"View\" data-url=\"https:\/\/portal.sumanas.xyz\/trainee\/leave\/0dfc9960-e1a0-11ec-8203-39e5625fa991\" data-toggle=\"modal\" data-target=\"#DatatableViewModal\"><i class=\"fa fa-eye\"><\/i><\/button>&nbsp;",
