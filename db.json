@@ -1,0 +1,222 @@
+{
+    "draw": 1,
+    "recordsTotal": 3,
+    "recordsFiltered": 3,
+    "data": [
+        {
+            "id": "b225e480-29ac-11ed-ad9b-216ff152978e",
+            "created_at": "2022-09-01 09:45:21",
+            "updated_at": "2022-09-01 10:14:27",
+            "deleted_at": null,
+            "employee_id": "b54b60d0-e19f-11ec-84ca-f719e5cd1393",
+            "start": "31-08-2022",
+            "end": "2022-08-31",
+            "days": "1",
+            "reason": "As I was not<br>\nfeeling well.",
+            "remarks": "",
+            "status": "<span class='label label-success'>Approved<\/span>",
+            "compensate": 0,
+            "at_training_period": "1",
+            "employee": {
+                "id": "b54b60d0-e19f-11ec-84ca-f719e5cd1393",
+                "created_at": "2022-06-01 17:10:59",
+                "updated_at": "2022-06-01 17:10:59",
+                "deleted_at": null,
+                "user_id": "b5498750-e19f-11ec-b723-6f8986fd85e3",
+                "name": "<a href=\"https:\/\/portal.sumanas.xyz\/admin\/employee\/b54b60d0-e19f-11ec-84ca-f719e5cd1393\" target=\"_blank\" data-impersonate-url=\"https:\/\/portal.sumanas.xyz\/impersonate\/take\/b5498750-e19f-11ec-b723-6f8986fd85e3\" title=\"Harshini  O.K.\" class=\"rightclick\">Harshini<\/a>",
+                "employeetype": "T",
+                "gender": "F",
+                "dob": "1995-06-01",
+                "designation_id": "79bfcfb0-88e4-11e8-8a9c-555a1a00f4cd",
+                "photo": null,
+                "officetiming_id": "55bfec50-9b61-11ea-a4f0-a10d7b428719",
+                "casual_count_per_year": {
+                    "2022": "0"
+                },
+                "scrum_master": 0
+            },
+            "action": "<button class=\"btn btn-default btn-view\" title=\"View\" data-url=\"https:\/\/portal.sumanas.xyz\/trainee\/leave\/b225e480-29ac-11ed-ad9b-216ff152978e\" data-toggle=\"modal\" data-target=\"#DatatableViewModal\"><i class=\"fa fa-eye\"><\/i><\/button>&nbsp;",
+            "checkbox_select": "<input type=\"checkbox\" id=\"inputBook-b225e480-29ac-11ed-ad9b-216ff152978e\" name=\"checkbox_select[b225e480-29ac-11ed-ad9b-216ff152978e]\" value=\"b225e480-29ac-11ed-ad9b-216ff152978e\" class=\"checkrow\" \/><label for=\"inputBook-b225e480-29ac-11ed-ad9b-216ff152978e\"><\/label>",
+            "status_name": "Approved",
+            "status_color": "success",
+            "original_status": "A"
+        },
+        {
+            "id": "c3858c40-0c9c-11ed-be4c-d7a77f71491c",
+            "created_at": "2022-07-26 10:08:15",
+            "updated_at": "2022-07-26 10:21:38",
+            "deleted_at": null,
+            "employee_id": "b54b60d0-e19f-11ec-84ca-f719e5cd1393",
+            "start": "25-07-2022",
+            "end": "2022-07-25",
+            "days": "1",
+            "reason": "As my daughter<br>\nis suffering<br>\nfrom typhoid.",
+            "remarks": "",
+            "status": "<span class='label label-success'>Approved<\/span>",
+            "compensate": 0,
+            "at_training_period": "1",
+            "employee": {
+                "id": "b54b60d0-e19f-11ec-84ca-f719e5cd1393",
+                "created_at": "2022-06-01 17:10:59",
+                "updated_at": "2022-06-01 17:10:59",
+                "deleted_at": null,
+                "user_id": "b5498750-e19f-11ec-b723-6f8986fd85e3",
+                "name": "<a href=\"https:\/\/portal.sumanas.xyz\/admin\/employee\/b54b60d0-e19f-11ec-84ca-f719e5cd1393\" target=\"_blank\" data-impersonate-url=\"https:\/\/portal.sumanas.xyz\/impersonate\/take\/b5498750-e19f-11ec-b723-6f8986fd85e3\" title=\"Harshini  O.K.\" class=\"rightclick\">Harshini<\/a>",
+                "employeetype": "T",
+                "gender": "F",
+                "dob": "1995-06-01",
+                "designation_id": "79bfcfb0-88e4-11e8-8a9c-555a1a00f4cd",
+                "photo": null,
+                "officetiming_id": "55bfec50-9b61-11ea-a4f0-a10d7b428719",
+                "casual_count_per_year": {
+                    "2022": "0"
+                },
+                "scrum_master": 0
+            },
+            "action": "<button class=\"btn btn-default btn-view\" title=\"View\" data-url=\"https:\/\/portal.sumanas.xyz\/trainee\/leave\/c3858c40-0c9c-11ed-be4c-d7a77f71491c\" data-toggle=\"modal\" data-target=\"#DatatableViewModal\"><i class=\"fa fa-eye\"><\/i><\/button>&nbsp;",
+            "checkbox_select": "<input type=\"checkbox\" id=\"inputBook-c3858c40-0c9c-11ed-be4c-d7a77f71491c\" name=\"checkbox_select[c3858c40-0c9c-11ed-be4c-d7a77f71491c]\" value=\"c3858c40-0c9c-11ed-be4c-d7a77f71491c\" class=\"checkrow\" \/><label for=\"inputBook-c3858c40-0c9c-11ed-be4c-d7a77f71491c\"><\/label>",
+            "status_name": "Approved",
+            "status_color": "success",
+            "original_status": "A"
+        },
+        {
+            "id": "0dfc9960-e1a0-11ec-8203-39e5625fa991",
+            "created_at": "2022-06-01 17:13:28",
+            "updated_at": "2022-06-01 18:04:40",
+            "deleted_at": null,
+            "employee_id": "b54b60d0-e19f-11ec-84ca-f719e5cd1393",
+            "start": "01-06-2022",
+            "end": "2022-06-01",
+            "days": "0.5",
+            "reason": "Late Entry Half<br>\nDay",
+            "remarks": "First day at<br>\nSumanas",
+            "status": "<span class='label label-inverse'>Declined<\/span>",
+            "compensate": 0,
+            "at_training_period": "1",
+            "employee": {
+                "id": "b54b60d0-e19f-11ec-84ca-f719e5cd1393",
+                "created_at": "2022-06-01 17:10:59",
+                "updated_at": "2022-06-01 17:10:59",
+                "deleted_at": null,
+                "user_id": "b5498750-e19f-11ec-b723-6f8986fd85e3",
+                "name": "<a href=\"https:\/\/portal.sumanas.xyz\/admin\/employee\/b54b60d0-e19f-11ec-84ca-f719e5cd1393\" target=\"_blank\" data-impersonate-url=\"https:\/\/portal.sumanas.xyz\/impersonate\/take\/b5498750-e19f-11ec-b723-6f8986fd85e3\" title=\"Harshini  O.K.\" class=\"rightclick\">Harshini<\/a>",
+                "employeetype": "T",
+                "gender": "F",
+                "dob": "1995-06-01",
+                "designation_id": "79bfcfb0-88e4-11e8-8a9c-555a1a00f4cd",
+                "photo": null,
+                "officetiming_id": "55bfec50-9b61-11ea-a4f0-a10d7b428719",
+                "casual_count_per_year": {
+                    "2022": "0"
+                },
+                "scrum_master": 0
+            },
+            "action": "<button class=\"btn btn-default btn-view\" title=\"View\" data-url=\"https:\/\/portal.sumanas.xyz\/trainee\/leave\/0dfc9960-e1a0-11ec-8203-39e5625fa991\" data-toggle=\"modal\" data-target=\"#DatatableViewModal\"><i class=\"fa fa-eye\"><\/i><\/button>&nbsp;",
+            "checkbox_select": "<input type=\"checkbox\" id=\"inputBook-0dfc9960-e1a0-11ec-8203-39e5625fa991\" name=\"checkbox_select[0dfc9960-e1a0-11ec-8203-39e5625fa991]\" value=\"0dfc9960-e1a0-11ec-8203-39e5625fa991\" class=\"checkrow\" \/><label for=\"inputBook-0dfc9960-e1a0-11ec-8203-39e5625fa991\"><\/label>",
+            "status_name": "Declined",
+            "status_color": "inverse",
+            "original_status": "D"
+        }
+    ],
+    "queries": [
+        {
+            "query": "select column_name as `column_name` from information_schema.columns where table_schema = ? and table_name = ?",
+            "bindings": [
+                "wfm_live",
+                "leaves"
+            ],
+            "time": 0.57
+        },
+        {
+            "query": "select column_name as `column_name` from information_schema.columns where table_schema = ? and table_name = ?",
+            "bindings": [
+                "wfm_live",
+                "leaves"
+            ],
+            "time": 0.64
+        },
+        {
+            "query": "select column_name as `column_name` from information_schema.columns where table_schema = ? and table_name = ?",
+            "bindings": [
+                "wfm_live",
+                "leaves"
+            ],
+            "time": 0.6
+        },
+        {
+            "query": "select count(*) as aggregate from (select '1' as `row_count` from `leaves` where exists (select * from `employees` where `leaves`.`employee_id` = `employees`.`id` and exists (select * from `users` where `employees`.`user_id` = `users`.`id` and `active` = ? and `users`.`deleted_at` is null) and `employees`.`deleted_at` is null) and `at_training_period` = ? and `leaves`.`deleted_at` is null and `employee_id` = ?) count_row_table",
+            "bindings": [
+                1,
+                1,
+                "b54b60d0-e19f-11ec-84ca-f719e5cd1393"
+            ],
+            "time": 4.44
+        },
+        {
+            "query": "select column_name as `column_name` from information_schema.columns where table_schema = ? and table_name = ?",
+            "bindings": [
+                "wfm_live",
+                "leaves"
+            ],
+            "time": 0.64
+        },
+        {
+            "query": "select `leaves`.* from `leaves` where exists (select * from `employees` where `leaves`.`employee_id` = `employees`.`id` and exists (select * from `users` where `employees`.`user_id` = `users`.`id` and `active` = ? and `users`.`deleted_at` is null) and `employees`.`deleted_at` is null) and `at_training_period` = ? and `leaves`.`deleted_at` is null and `employee_id` = ? order by `start` desc limit 10 offset 0",
+            "bindings": [
+                1,
+                1,
+                "b54b60d0-e19f-11ec-84ca-f719e5cd1393"
+            ],
+            "time": 4.42
+        },
+        {
+            "query": "select column_name as `column_name` from information_schema.columns where table_schema = ? and table_name = ?",
+            "bindings": [
+                "wfm_live",
+                "employees"
+            ],
+            "time": 0.63
+        },
+        {
+            "query": "select * from `employees` where `employees`.`id` in (?) and `employees`.`deleted_at` is null",
+            "bindings": [
+                "b54b60d0-e19f-11ec-84ca-f719e5cd1393"
+            ],
+            "time": 0.39
+        }
+    ],
+    "input": {
+        "draw": "1",
+        "columns": [
+            {
+                "data": "start"
+            },
+            {
+                "data": "days"
+            },
+            {
+                "data": "reason"
+            },
+            {
+                "data": "status"
+            },
+            {
+                "data": "action",
+                "searchable": "false",
+                "orderable": "false"
+            }
+        ],
+        "order": [
+            {
+                "column": "0",
+                "dir": "desc"
+            }
+        ],
+        "start": "0",
+        "length": "10",
+        "search": {
+            "value": null
+        },
+        "_": "1662026455277"
+    }
+}
