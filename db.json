@@ -99,74 +99,7 @@
             "status_color": "inverse",
             "original_status": "D"
         }
-    ],
-    "queries": [
-        {
-            "query": "select column_name as `column_name` from information_schema.columns where table_schema = ? and table_name = ?",
-            "bindings": [
-                "wfm_live",
-                "leaves"
-            ],
-            "time": 0.57
-        },
-        {
-            "query": "select column_name as `column_name` from information_schema.columns where table_schema = ? and table_name = ?",
-            "bindings": [
-                "wfm_live",
-                "leaves"
-            ],
-            "time": 0.64
-        },
-        {
-            "query": "select column_name as `column_name` from information_schema.columns where table_schema = ? and table_name = ?",
-            "bindings": [
-                "wfm_live",
-                "leaves"
-            ],
-            "time": 0.6
-        },
-        {
-            "query": "select count(*) as aggregate from (select '1' as `row_count` from `leaves` where exists (select * from `employees` where `leaves`.`employee_id` = `employees`.`id` and exists (select * from `users` where `employees`.`user_id` = `users`.`id` and `active` = ? and `users`.`deleted_at` is null) and `employees`.`deleted_at` is null) and `at_training_period` = ? and `leaves`.`deleted_at` is null and `employee_id` = ?) count_row_table",
-            "bindings": [
-                1,
-                1,
-                "b54b60d0-e19f-11ec-84ca-f719e5cd1393"
-            ],
-            "time": 4.44
-        },
-        {
-            "query": "select column_name as `column_name` from information_schema.columns where table_schema = ? and table_name = ?",
-            "bindings": [
-                "wfm_live",
-                "leaves"
-            ],
-            "time": 0.64
-        },
-        {
-            "query": "select `leaves`.* from `leaves` where exists (select * from `employees` where `leaves`.`employee_id` = `employees`.`id` and exists (select * from `users` where `employees`.`user_id` = `users`.`id` and `active` = ? and `users`.`deleted_at` is null) and `employees`.`deleted_at` is null) and `at_training_period` = ? and `leaves`.`deleted_at` is null and `employee_id` = ? order by `start` desc limit 10 offset 0",
-            "bindings": [
-                1,
-                1,
-                "b54b60d0-e19f-11ec-84ca-f719e5cd1393"
-            ],
-            "time": 4.42
-        },
-        {
-            "query": "select column_name as `column_name` from information_schema.columns where table_schema = ? and table_name = ?",
-            "bindings": [
-                "wfm_live",
-                "employees"
-            ],
-            "time": 0.63
-        },
-        {
-            "query": "select * from `employees` where `employees`.`id` in (?) and `employees`.`deleted_at` is null",
-            "bindings": [
-                "b54b60d0-e19f-11ec-84ca-f719e5cd1393"
-            ],
-            "time": 0.39
-        }
-    ],
+    ],    
     "input": {
         "draw": "1",
         "columns": [
