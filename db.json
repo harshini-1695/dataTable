@@ -29,7 +29,7 @@
                 "dob": "1995-06-01",                
                 "scrum_master": 0
             },
-            "action": "<button class=\"btn btn-default btn-view\" title=\"View\" data-url=\"https:\/\/portal.sumanas.xyz\/trainee\/leave\/b225e480-29ac-11ed-ad9b-216ff152978e\" data-toggle=\"modal\" data-target=\"#DatatableViewModal\"><i class=\"fa fa-eye\"><\/i><\/button>&nbsp;",
+            "action": "<button class=\"btn btn-default btn-view\" title=\"View\" data-url=\"https:\/\/portal.sumanas.xyz\/trainee\/leave\/b225e480-29ac-11ed-ad9b-216ff152978e\" data-bs-toggle=\"modal\" data-bs-target=\"#DatatableViewModal\"><i class=\"fa fa-eye\"><\/i><\/button>&nbsp;",
             "checkbox_select": "<input type=\"checkbox\" id=\"inputBook-b225e480-29ac-11ed-ad9b-216ff152978e\" name=\"checkbox_select[b225e480-29ac-11ed-ad9b-216ff152978e]\" value=\"b225e480-29ac-11ed-ad9b-216ff152978e\" class=\"checkrow\" \/><label for=\"inputBook-b225e480-29ac-11ed-ad9b-216ff152978e\"><\/label>",
             "status_name": "Approved",
             "status_color": "success",
@@ -61,7 +61,7 @@
                 "dob": "1995-06-01",
                 "scrum_master": 0
             },
-            "action": "<button class=\"btn btn-default btn-view\" title=\"View\" data-url=\"https:\/\/portal.sumanas.xyz\/trainee\/leave\/c3858c40-0c9c-11ed-be4c-d7a77f71491c\" data-toggle=\"modal\" data-target=\"#DatatableViewModal\"><i class=\"fa fa-eye\"><\/i><\/button>&nbsp;",
+            "action": "<button class=\"btn btn-default btn-view\" title=\"View\" data-url=\"https:\/\/portal.sumanas.xyz\/trainee\/leave\/c3858c40-0c9c-11ed-be4c-d7a77f71491c\" data-bs-toggle=\"modal\" data-bs-target=\"#DatatableViewModal\"><i class=\"fa fa-eye\"><\/i><\/button>&nbsp;",
             "checkbox_select": "<input type=\"checkbox\" id=\"inputBook-c3858c40-0c9c-11ed-be4c-d7a77f71491c\" name=\"checkbox_select[c3858c40-0c9c-11ed-be4c-d7a77f71491c]\" value=\"c3858c40-0c9c-11ed-be4c-d7a77f71491c\" class=\"checkrow\" \/><label for=\"inputBook-c3858c40-0c9c-11ed-be4c-d7a77f71491c\"><\/label>",
             "status_name": "Approved",
             "status_color": "success",
@@ -93,7 +93,7 @@
                 "dob": "1995-06-01",                
                 "scrum_master": 0
             },
-            "action": "<button class=\"btn btn-default btn-view\" title=\"View\" data-url=\"https:\/\/portal.sumanas.xyz\/trainee\/leave\/0dfc9960-e1a0-11ec-8203-39e5625fa991\" data-toggle=\"modal\" data-target=\"#DatatableViewModal\"><i class=\"fa fa-eye\"><\/i><\/button>&nbsp;",
+            "action": "<button class=\"btn btn-default btn-view\" title=\"View\" data-url=\"https:\/\/portal.sumanas.xyz\/trainee\/leave\/0dfc9960-e1a0-11ec-8203-39e5625fa991\" data-bs-toggle=\"modal\" data-bs-target=\"#DatatableViewModal\"><i class=\"fa fa-eye\"><\/i><\/button>&nbsp;",
             "checkbox_select": "<input type=\"checkbox\" id=\"inputBook-0dfc9960-e1a0-11ec-8203-39e5625fa991\" name=\"checkbox_select[0dfc9960-e1a0-11ec-8203-39e5625fa991]\" value=\"0dfc9960-e1a0-11ec-8203-39e5625fa991\" class=\"checkrow\" \/><label for=\"inputBook-0dfc9960-e1a0-11ec-8203-39e5625fa991\"><\/label>",
             "status_name": "Declined",
             "status_color": "inverse",
